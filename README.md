@@ -116,7 +116,7 @@ The dashboard is organized into **four analytical views**:
 
 | Recommendation | Expected Outcome |
 |----------------|------------------|
-| Increase staffing during **10 AM – 4 PM** | Reduces wait time & improves throughput |
+| Increase staffing during 10 AM – 4 PM | Reduces wait time & improves throughput |
 | Prioritize triage for high-referral departments (Cardiology, Orthopedics) | Lowers patient handoff delays |
 | Improve weekend staffing | Addresses predictable performance dip |
 | Add predictive forecasting (ML) | Anticipates daily patient load |
