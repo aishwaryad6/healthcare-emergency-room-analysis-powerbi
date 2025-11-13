@@ -71,7 +71,7 @@ The dashboard uses a **relational data model** integrating multiple healthcare d
 - **Department Referral Records**  
 - **Patient Satisfaction Surveys**  
 
-> `![Data Model](assets/data_model.png)`
+> `![Data Model]/docs/hospital_eranalysis_datamodelling.png)`
 
 ---
 
@@ -84,7 +84,7 @@ The dashboard is organized into **four analytical views**:
 3️⃣ **Patient-Level Detail View** → Drill-down with patient-level granularity  
 4️⃣ **Summary View** → Snapshot for leadership decision-making  
 
-> `![Dashboard Overview](assets/dashboard_overview.png)`
+> `![Dashboard Overview](docs/hospital_emergencyroom_analysis.png)`
 
 ---
 
